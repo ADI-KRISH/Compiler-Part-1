@@ -226,8 +226,8 @@ public class CompilationEngine {
     }
 
     public static void main(String[] args) {
-        String codefile = "C:\\Users\\GS Adithya Krishna\\Documents\\java programmes\\Compiler part1\\src\\codefile.txt";
-        String tokenfile = "C:\\Users\\GS Adithya Krishna\\Documents\\java programmes\\Compiler part1\\src\\Parseout.txt";
+        String codefile = "Code file path";
+        String tokenfile = "Output file path";
 
         try (BufferedReader ip = new BufferedReader(new FileReader(codefile));
              BufferedWriter np = new BufferedWriter(new FileWriter(tokenfile))) {
