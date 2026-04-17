@@ -1,0 +1,15 @@
+<Keyword> while <Keyword>
+<Symbols> ( <Symbols>
+<Identifier> count <Identifier>
+<Symbols> < <Symbols>
+<Integer Constant> 100 <Integer Constant>
+<Symbols> ) <Symbols>
+<Symbols> { <Symbols>
+<Keyword> let <Keyword>
+<Identifier> count <Identifier>
+<Symbols> = <Symbols>
+<Identifier> count <Identifier>
+<Symbols> + <Symbols>
+<Integer Constant> 1 <Integer Constant>
+<Symbols> ; <Symbols>
+<Symbols> } <Symbols>
